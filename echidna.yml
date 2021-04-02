@@ -1,0 +1,4 @@
+# filterBlacklist: false
+# filterFunctions: ["ChorusTest.mintToken(uint256,address)"]
+# seqLen: 2
+testLimit: 200
